@@ -15,7 +15,7 @@ I'm a passionate web developer with experience in building highly engaging and i
 - Experimenting with new frontend and backend technologies
 
 ### 📫 Let's Connect!
-- **GitHub:** [github.com/yourusername](https://github.com/yourusername)
+- **GitHub:** [github.com/eyob33](https://github.com/eyob33)
 - **LinkedIn:** [linkedin.com/in/yourname](https://linkedin.com/in/yourname) (if applicable)
 - **Twitter:** [twitter.com/yourhandle](https://twitter.com/yourhandle) (if applicable)
 
